@@ -3,24 +3,35 @@
     
 # Project DSA Tracker
 
-    A platform for students to store their daily DSA progress was performed across all online-coding platforms.
+A platform for learners to store their daily DSA progress was performed across all online-coding platforms.
 
-    User-friendly UI, Access to multiple pages upon authentication, Easily accessible for revision purposes.
+
+## Features
+
+- User-friendly UI
+- Access to multiple pages upon authentication
+- Easily accessible for revision purposes.
 
 
 ## Tech Stacks Used
 
-    Javascript, React,Tailwind CSS, Node, Express, MongoDB
+Javascript, React,Tailwind CSS, Node, Express, MongoDB
+
+
+## Repositories
+
+- [Frontend](https://github.com/masai14/dsa-tracker-frontend)
+- [Backend](https://github.com/masai14/dsa-tracker-backend)
 
   
-# Deployed Link
+## Deployed Link
 
-    https://dsa-tracker.vercel.app/
+[https://dsa-tracker.vercel.app](https://dsa-tracker.vercel.app)
 
-  
+
 ## Limitations
 
-    All pages are not responsive yet , those pages are might not be properly visible on small screen devices.
+All pages are not responsive yet , those pages are might not be properly visible on small screen devices.
 
 
 ## Team members and contributors
